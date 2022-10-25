@@ -35,11 +35,11 @@
     OperatingSystemVersion : 10.0.19043
     BuildNumber            : 19043
     Manufacturer           : LENOVO
-    BIOSSerialNumber       : PF16UMPR
-    ComputerName           : DESKTOP-J1GT1U6
+    BIOSSerialNumber       : *******************
+    ComputerName           : *******************
     BIOSVersion            : LENOVO - 1
     OSSerialNumber         : 00330-80000-00000-AA382
-    Model                  : 81FK
+    Model                  : *******************
     RegisteredUser         : Lenovo
     OperatingSystem        : Microsoft Windows 10 Pro
 
@@ -54,11 +54,11 @@
     OperatingSystemVersion : 10.0.19043
     BuildNumber            : 19043
     Manufacturer           : LENOVO
-    BIOSSerialNumber       : PF16UMPR
-    ComputerName           : DESKTOP-J1GT1U6
+    BIOSSerialNumber       : *******************
+    ComputerName           : *******************
     BIOSVersion            : LENOVO - 1
     OSSerialNumber         : 00330-80000-00000-AA382
-    Model                  : 81FK
+    Model                  : *******************
     RegisteredUser         : Lenovo
     OperatingSystem        : Microsoft Windows 10 Pro
 #>
@@ -68,7 +68,7 @@ Function Get-ComputerInformation
 [cmdletBinding()]
 param(
 [parameter(Mandatory=$true)]
-[ValidateSet('DESKTOP-J1GT1U6')] #write your own hostname
+[ValidateSet('****************')] #write your own hostname
 [string]$ComputerName,
 
 [parameter()]
