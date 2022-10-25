@@ -38,7 +38,7 @@
     BIOSSerialNumber       : *******************
     ComputerName           : *******************
     BIOSVersion            : LENOVO - 1
-    OSSerialNumber         : 00330-80000-00000-AA382
+    OSSerialNumber         : *******************
     Model                  : *******************
     RegisteredUser         : Lenovo
     OperatingSystem        : Microsoft Windows 10 Pro
@@ -57,7 +57,7 @@
     BIOSSerialNumber       : *******************
     ComputerName           : *******************
     BIOSVersion            : LENOVO - 1
-    OSSerialNumber         : 00330-80000-00000-AA382
+    OSSerialNumber         : *******************
     Model                  : *******************
     RegisteredUser         : Lenovo
     OperatingSystem        : Microsoft Windows 10 Pro
