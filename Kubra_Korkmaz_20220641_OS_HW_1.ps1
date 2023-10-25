@@ -37,7 +37,7 @@
     Manufacturer           : LENOVO
     BIOSSerialNumber       : *******************
     ComputerName           : *******************
-    BIOSVersion            : LENOVO - 1
+    BIOSVersion            : ********************
     OSSerialNumber         : *******************
     Model                  : *******************
     RegisteredUser         : Lenovo
@@ -48,7 +48,7 @@
     Name          : information.txt
 
 .EXAMPLE
-   Get-ComputerInformation -ComputerName DESKTOP-J1GT1U6 -FileName $false
+   Get-ComputerInformation -ComputerName ******** -FileName $false
 
     Domain                 : WORKGROUP
     OperatingSystemVersion : 10.0.19043
@@ -56,7 +56,7 @@
     Manufacturer           : LENOVO
     BIOSSerialNumber       : *******************
     ComputerName           : *******************
-    BIOSVersion            : LENOVO - 1
+    BIOSVersion            : **************
     OSSerialNumber         : *******************
     Model                  : *******************
     RegisteredUser         : Lenovo
